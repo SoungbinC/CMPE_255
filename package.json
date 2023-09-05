@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "conda": "^0.0.1-a17",
+    "gpt-engineer": "^0.0.5",
+    "pip": "^0.0.1",
+    "python": "^0.0.4"
+  }
+}
