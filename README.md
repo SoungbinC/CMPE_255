@@ -1,7 +1,21 @@
-### Assginment 1 - Part
+### Assginment 2 - Part
 
-# Assignment 1 - part 1 is Analysis of the data from the file `data.csv` and generating a report from the data.
+# Assignment 2 - Part 1 Akkio (Auto ML Provider) Data Analysis
 
-##Assignment 1 - part 2 is the file for the assignment 1 for generating a nice report from the article in medium.com.
+## Introduction:
 
-#Assignment 2 - Create a project using gpt-engineer
+    Used Akkio to do data analysis on the data set provided by Keggler.
+
+## Link: https://app.akkio.com/deployments/VfOtoeeSEthtfX9zuXVm
+
+## Data Analysis:
+
+    1. Data Cleaning
+    2. Data Preprocessing
+    3. Data Visualization
+    4. Data Modeling
+    5. Data Evaluation
+
+## Result: It's in Akkio file and you can check on ML model performance on the link above.
+
+# Assignment 2 - Part 2 Pycaret to do low code data mining
