@@ -20,7 +20,7 @@
 
 # Assignment 2 - Part 2 Pycaret to do low code data mining
 
-## link: https://colab.research.google.com/github/SoungbinC/CMPE_255/blob/assignment2/Assigment2.ipynb
+[Article] https://colab.research.google.com/drive/1NDWCOb8Unbhv09kwSoIndea6TP4YTezg#scrollTo=NwVAmGn1jdZ0
 
 Tasks:
 
@@ -40,6 +40,6 @@ e)
 Time Series Forecasting - Univariate without Exogenous Variables
 Time Series Forecasting - Univariate with Exogenous Variables
 
-## link: https://colab.research.google.com/github/SoungbinC/CMPE_255/blob/assignment2/PyCaret_%2B_Gardio.ipynb
+[Article] link: https://colab.research.google.com/github/SoungbinC/CMPE_255/blob/assignment2/PyCaret_%2B_Gardio.ipynb
 
 Pycaret + Gardio
