@@ -19,3 +19,27 @@
 ## Result: It's in Akkio file and you can check on ML model performance on the link above.
 
 # Assignment 2 - Part 2 Pycaret to do low code data mining
+
+## link: https://colab.research.google.com/github/SoungbinC/CMPE_255/blob/assignment2/Assigment2.ipynb
+
+Tasks:
+
+a) Classification
+Binary Classification - Level
+​Links to an external site.
+Multiclass Classification - Level
+​Links to an external site.
+Regression - Level
+b)
+Clustering - Level
+c)
+Anomaly Detection - Level
+d)
+Association Rules Mining - Level
+e)
+Time Series Forecasting - Univariate without Exogenous Variables
+Time Series Forecasting - Univariate with Exogenous Variables
+
+## link: https://colab.research.google.com/github/SoungbinC/CMPE_255/blob/assignment2/PyCaret_%2B_Gardio.ipynb
+
+Pycaret + Gardio
