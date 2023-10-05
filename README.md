@@ -6,4 +6,6 @@
 
 ## 2. SEMMA
 
+[KDD](https://github.com/SoungbinC/CMPE_255/tree/assignment3/KDD)
+
 ## 3. KDD
