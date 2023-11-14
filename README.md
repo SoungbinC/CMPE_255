@@ -8,8 +8,8 @@ This is assignemt 6 for EDA and ML
 
 4.image [image](images_EDA)
 
-5. audio [audio](audio_EDA)
+5.audio [audio](audio_EDA)
 
 6.video [action_EDA](action_EDA)
 
-7. graph data [graph_EDA](graph_EDA)
+7.graph data [graph_EDA](graph_EDA)
