@@ -4,7 +4,7 @@
 
 2.  Write a colab to illustrate how dimensionality reduction hechnique like umap can be used followed by cluerstring
 
-    -[UMAP and Clustering]()
+    -[UMAP and Clustering](https://github.com/SoungbinC/CMPE_255/blob/Assignment8/Using_uamp_for_clustering.ipynb)
 
 3.  Demonstrate dimensionality reduction using data bricks.
 
