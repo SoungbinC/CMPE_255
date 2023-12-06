@@ -42,3 +42,4 @@ List of references used in the study.
 
 
 [Presntation](https://www.slideshare.net/ssuser76120f/shortstoryassignmentpptx)
+[medium.com](https://medium.com/@soungbin.cho/exploring-human-like-memory-characteristics-in-large-language-models-732cfd0ad14f)
